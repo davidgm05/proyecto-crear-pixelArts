@@ -17,6 +17,8 @@
     "vite": "^5.1.4"
   },
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "canvas": "^2.11.2",
+    "jspdf": "^2.5.1"
   }
 }

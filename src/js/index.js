@@ -1,4 +1,4 @@
-import '../scss/style.scss';
+import '../scss/style.css';
 import jsPDF from 'jspdf';
 import { createCanvas } from 'canvas';
 

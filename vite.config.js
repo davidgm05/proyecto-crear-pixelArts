@@ -1,6 +1,6 @@
 export default {
     root: "src",
-    publicDir: "../public",
+    publicDir: "../img",
     build: {
         outDir: "../dist",
     }
